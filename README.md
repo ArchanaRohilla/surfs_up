@@ -1,10 +1,13 @@
 # Surfs Up
-Weather Analysis for surfing using SQLite and Flask
+Weather Analysis for surfing and ice cream shop business
 
 ## Project Overview
+This project involves gathering data on the seasons of Oahu and determining whether the seasons could affect the surf and ice cream shop business.
+Specifically, are there certain times of the year when business might be slower, or the type of customer could be different?
 
 
 ## Tools
+Python, SQLite, SQLAlchemy, Flask
 
 
 ## Summary
